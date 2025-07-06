@@ -1,0 +1,57 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2592,
+    "time": 1751765688,
+    "hash": "31ea2cfe22fd5be2123871c0ace8cc0e0bf7833a"
+  },
+  ".hoa/worktree.json": {
+    "size": 1395,
+    "time": 1751764311,
+    "hash": "19cfd8a04468fd25f38e5af9350197afdb225071"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086101,
+    "hash": "09e7bcf791ab5895399185da6ecb6e1a811070b4"
+  },
+  "README.md": {
+    "size": 5767,
+    "time": 1734673221,
+    "hash": "cbbbc29f5555dc8ef61f9fc5caa76750145e997c"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "notes/电路实验三+四.ipynb": {
+    "size": 490202,
+    "time": 1745319404,
+    "hash": "ff3146d58fab628e1414c7bfe780e678e8fbc095"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "tag.txt": {
+    "size": 80,
+    "time": 1734683332,
+    "hash": "d400ab366960f294862f25026a5def858906ef35"
+  }
+}
