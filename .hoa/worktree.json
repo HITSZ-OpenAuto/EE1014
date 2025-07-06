@@ -1,13 +1,13 @@
 {
   ".github/workflows/trigger-workflow.yml": {
     "size": 2592,
-    "time": 1751765688,
-    "hash": "31ea2cfe22fd5be2123871c0ace8cc0e0bf7833a"
+    "time": 1751770035,
+    "hash": "65e2b06bfd6ddd8b544f2e26c9025633f721fe4d"
   },
   ".hoa/worktree.json": {
     "size": 1395,
-    "time": 1751764311,
-    "hash": "19cfd8a04468fd25f38e5af9350197afdb225071"
+    "time": 1751770035,
+    "hash": "65e2b06bfd6ddd8b544f2e26c9025633f721fe4d"
   },
   "LICENSE": {
     "size": 20844,
@@ -39,10 +39,50 @@
     "time": 1711962147,
     "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
   },
+  "notes/RLC阻抗特性、谐振电路与RC选频网络 (24级 cecilia).pdf": {
+    "size": 257993,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/互感电路实验(24级 cecilia).pdf": {
+    "size": 255947,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/元器件的参数测量、阻抗的串并联(24级 cecilia).pdf": {
+    "size": 389143,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/单管交流放大电路实验 (24级 cecilia).pdf": {
+    "size": 237161,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/有源滤波器的研究实验 (24级 cecilia).pdf": {
+    "size": 150768,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/波形发生电路实验(24级 cecilia).pdf": {
+    "size": 246508,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
   "notes/电路实验三+四.ipynb": {
     "size": 490202,
     "time": 1745319404,
     "hash": "ff3146d58fab628e1414c7bfe780e678e8fbc095"
+  },
+  "notes/直流电路实验 (24级 cecilia).pdf": {
+    "size": 321056,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/集成运算放大器的应用 (24级 cecilia).pdf": {
+    "size": 260863,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
   },
   "slides/README.md": {
     "size": 58,
