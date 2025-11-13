@@ -1,0 +1,28 @@
+ID: "EE1014"
+SimilarID: []
+Name: "电路与电子技术实验"
+CourseProperty:
+  Major:
+    - Year: "2023_2024"
+      Name: [ "工科试验班（自动化与电气工程）", "工科试验班（计算机与电子通信）", "工科试验班（机器人与智能装备）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "EE1014"
+  CourseName: "电路与电子技术实验"
+  Credit: "1.0"
+  CourseHour: "24.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验报告"
+      Percentage: 100
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: "24"
