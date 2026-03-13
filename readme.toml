@@ -1,7 +1,6 @@
 course_name = "电路与电子技术实验"
-repo_type = "normal"
 course_code = "EE1014"
-
+repo_type = "normal"
 description = "2024年春季为了适配电路与电子学课程而开设的缝合课程，缝合了原《电路实验IA》《电路实验IB》《模拟电子技术实验》《数字电子技术实验》的部分内容。相比原先四门实验课，课时大幅减少，实验难度也大幅降低。"
 
 [[sections]]
@@ -25,7 +24,6 @@ content = """
 | 综合实验 | 呼吸灯电路实验 | 利用 Multisim 仿真亮度渐变控制电路，<br>亮灭自动控制电路和自动呼吸灯电路，<br>并搭建呼吸灯电路实现功能。 | 三个仿真电路要上课检查，<br>最后搭建电路利用面包板，注意安全，<br>并设计使得电路尽可能简单而不混乱。 |
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2024-12" }
-
 
 [[sections]]
 title = "排课与时间安排"
