@@ -1,9 +1,5 @@
 # EE1014 - 电路与电子技术实验
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实验报告100%](https://img.shields.io/badge/实验报告-100%25-wheat)
 
 2024年春季为了适配电路与电子学课程而开设的缝合课程，缝合了原《电路实验IA》《电路实验IB》《模拟电子技术实验》《数字电子技术实验》的部分内容。相比原先四门实验课，课时大幅减少，实验难度也大幅降低。
 
