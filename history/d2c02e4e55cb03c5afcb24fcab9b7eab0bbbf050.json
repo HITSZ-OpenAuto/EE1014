@@ -1,0 +1,92 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022695,
+    "hash": "d2c02e4e55cb03c5afcb24fcab9b7eab0bbbf050"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086101,
+    "hash": "09e7bcf791ab5895399185da6ecb6e1a811070b4"
+  },
+  "README.md": {
+    "size": 4693,
+    "time": 1791961299,
+    "hash": "428cfdd4da90c7b7b1fcc3a2787b4a839a6cde2f"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  },
+  "notes/RLC阻抗特性、谐振电路与RC选频网络 (24级 cecilia).pdf": {
+    "size": 257993,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/互感电路实验(24级 cecilia).pdf": {
+    "size": 255947,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/元器件的参数测量、阻抗的串并联(24级 cecilia).pdf": {
+    "size": 389143,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/单管交流放大电路实验 (24级 cecilia).pdf": {
+    "size": 237161,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/有源滤波器的研究实验 (24级 cecilia).pdf": {
+    "size": 150768,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/波形发生电路实验(24级 cecilia).pdf": {
+    "size": 246508,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/电路实验三+四.ipynb": {
+    "size": 490202,
+    "time": 1745319404,
+    "hash": "ff3146d58fab628e1414c7bfe780e678e8fbc095"
+  },
+  "notes/直流电路实验 (24级 cecilia).pdf": {
+    "size": 321056,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "notes/集成运算放大器的应用 (24级 cecilia).pdf": {
+    "size": 260863,
+    "time": 1751810486,
+    "hash": "1160b04b2aa78be172540b9095a6f96524f25fbb"
+  },
+  "readme.toml": {
+    "size": 4684,
+    "time": 1785345794,
+    "hash": "7d4cf3bf9061d62c63e1f7ccb020ab19178f73b6"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1711962147,
+    "hash": "7a9bd98a8aafd75c415c6e3e9f162c776bf957a3"
+  }
+}
